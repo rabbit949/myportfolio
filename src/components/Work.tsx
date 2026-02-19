@@ -79,7 +79,7 @@ const Work = () => {
                 <h4>Tools and features</h4>
                 <p>{project.technologies}</p>
               </div>
-              <WorkImage image={project.image} alt={project.title} />
+              {(project.image || project.video) && <WorkImage image={project.image || '/images/placeholder.png'} alt={project.title} video={project.video} />}
             </div>
           ))}
           {/* See All Works Button */}
@@ -99,3 +99,4 @@ const Work = () => {
 };
 
 export default Work;
+
