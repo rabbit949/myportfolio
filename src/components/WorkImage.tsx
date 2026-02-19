@@ -37,6 +37,7 @@ const WorkImage = (props: Props) => {
             playsInline
             loop
             preload="metadata"
+            style={{ width: "100%", height: "100%", objectFit: "cover" }}
           />
         )}
       </a>
@@ -45,3 +46,4 @@ const WorkImage = (props: Props) => {
 };
 
 export default WorkImage;
+
