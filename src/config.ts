@@ -106,7 +106,7 @@ export const config = {
             title: "Real-Time Stock Market App",
             category: "Web Development / FinTech / AI",
             technologies: "Next.js, React, Inngest, Better Auth, Chart.js, Node.js, REST APIs, AI Insights",
-            video: "/video/stock-market-app.mp4",
+            video: "https://2k7ixqehql4ubow6.public.blob.vercel-storage.com/stock-market-app.mp4",
             description: "A real-time stock market application that provides live price updates, personalized alerts, interactive charts, and AI-powered insights. Integrates financial data APIs, automation workflows, and authentication for secure user experiences. Features watchlists, daily news summaries, and seamless deployment with Next.js and Inngest."
         },
         {
@@ -114,7 +114,7 @@ export const config = {
             title: "Real Estate Platform",
             category: "Web Development / MERN Stack",
             technologies: "React, Node.js, MongoDB, Express, Prisma, JWT, Socket.io, Context API, TailwindCSS",
-            video: "/video/real-estate-app.mp4",
+            video: "https://2k7ixqehql4ubow6.public.blob.vercel-storage.com/real-estate-app.mp4",
             description: "A full-stack real estate application built with the MERN stack that enables property listings, user authentication, and real-time chat between buyers and sellers. Features secure login with JWT and cookies, interactive property search, and responsive UI. Integrates Socket.io for instant messaging and Prisma for efficient database management, providing a modern and scalable solution for real estate marketplaces."
         },
         {
@@ -122,7 +122,7 @@ export const config = {
             title: "Agency AI Website",
             category: "Web Development / Frontend",
             technologies: "React.js, Tailwind CSS, JavaScript, HTML5, CSS3, Responsive Design, Vite, Deployment",
-            video: "/videos/agencyai.mp4",
+            video: "https://2k7ixqehql4ubow6.public.blob.vercel-storage.com/agencyai.mp4",
             description: "A modern website built for a client using React.js and Tailwind CSS, featuring reusable components, clean UI design, and mobile-first responsiveness. The project demonstrates contemporary frontend development practices including component-based architecture, optimized styling with utility-first CSS, smooth layouts, and deployment of a production-ready web application"
 },
         {
@@ -130,7 +130,7 @@ export const config = {
             title: "AI-Powered Resume Analyzer",
             category: "AI / NLP / Career Tech",
             technologies: "Python, Transformers, Hugging Face, Next.js, Node.js, MongoDB, TailwindCSS",
-            video: "/video/resume-analyzer.mp4",
+            video: "https://2k7ixqehql4ubow6.public.blob.vercel-storage.com/resume-analyzer.mp4",
             description: "An intelligent resume analysis platform that leverages natural language processing and large language models to evaluate resumes, highlight strengths, and suggest improvements. Provides personalized career insights, skill gap detection, and job-fit recommendations. Built with a modern web stack for seamless user experience and scalable deployment."
         },
         {
@@ -139,7 +139,7 @@ export const config = {
             category: "AI / Computer Vision",
             technologies: "Python, TensorFlow, Keras, MTCNN, SAM, Angular, Node.js, MongoDB",
           //  image: "/images/skinalyze.png",
-            video: "/video/skinalyze.mp4",
+            video: "https://2k7ixqehql4ubow6.public.blob.vercel-storage.com/skinalyze.mp4",
             description: "An AI-powered skincare analysis platform created for a client that detects skin type and skin issues from facial images using deep learning. Integrates face detection, segmentation, and machine learning models to provide personalized skincare recommendations, product suggestions, and progress tracking."
         },
         {
@@ -206,5 +206,6 @@ export const config = {
 
     }
 };
+
 
 
