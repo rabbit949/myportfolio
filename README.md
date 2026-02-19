@@ -1,4 +1,4 @@
-# My Portfolio Wesbite by @red1-for-hek - Overview 🚀
+# My Portfolio Wesbite by @rabbit949 - Overview 🚀
 
 If you are copying this code or forking this repo, please give a credit of my name :(
 
@@ -8,8 +8,7 @@ I have modified the gsap club plugins with the trial plugins, but with the trial
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-- [Protfolio-Preview](https://www.redoyanulhaque.me/)
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
